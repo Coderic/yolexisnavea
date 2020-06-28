@@ -1,6 +1,6 @@
 # Site settings
 name: Yolexis Navea
-description: "Directora de Proyectos"
+description: "Gerente de Proyectos"
 url: ""
 
 
@@ -27,7 +27,6 @@ instagram_username: yolexis.b.navea
 #blog_url: "/blog"
 email: yolexis.navea@coderic.net
 public_key_url: "/keys/id_rsa.pub"
-
 
 avatar: yes
 avatar_img_path: "imgs/yolexis-navea.jpg"
